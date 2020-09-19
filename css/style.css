@@ -9,6 +9,12 @@ div {
     margin-left: 30px;
 }
 
+.image-amto {
+    margin-left: 10px;
+    width: 210px;
+    height: 200px;
+}
+
 p {
     color: #242424;
     font-style: normal;
@@ -41,4 +47,10 @@ p {
 .parrafo {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
+}
+
+.name {
+    color: #242542;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 20px;
 }
