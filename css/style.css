@@ -1,9 +1,12 @@
 div {
     background-color: #dede6b;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .style {
     color: #000000;
+    margin-left: 30px;
 }
 
 p {
@@ -11,4 +14,26 @@ p {
     font-style: normal;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: large;
+    margin-left: 30px;
+}
+
+.form {
+    margin-bottom: 20px;
+    background-color: #242542;
+    color: #ffffff;
+    margin-left: 30px;
+}
+
+.post {
+    color: #242424;
+    font-style: initial;
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    margin-left: 20px;
+}
+
+.container {
+    margin-bottom: 20px;
+    border: 1px solid #242424;
 }
