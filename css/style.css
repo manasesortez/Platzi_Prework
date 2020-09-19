@@ -41,16 +41,27 @@ p {
 
 .container {
     margin-bottom: 20px;
-    border: 1px solid #242424;
+    text-align: center;
 }
 
 .parrafo {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
+    margin-bottom: 10px;
+}
+
+.footer {
+    padding: 10px;
 }
 
 .name {
-    color: #242542;
+    color: #dedede;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header {
+    background-color: #242542;
 }
