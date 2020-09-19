@@ -2,7 +2,7 @@ Bienvenido a esta prueba del curso de github y git con Platzi
 
 clear
 
-I like programmer and will be interersting in learn a new things 
+I like be programmers and will be interersting in learn a new things 
 
 
 
