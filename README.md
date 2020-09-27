@@ -1,4 +1,3 @@
-# Platzi_Prework
-This is a repository used of exemplo, in the course of platzi "Prework"
+# Platzi Prework 📗
 
-And a new thing
+- This is a repository used of exemplo, in the course of platzi "Prework"
